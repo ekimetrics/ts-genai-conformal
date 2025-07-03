@@ -1,0 +1,17 @@
+torch>=2.1
+lightning>=2.0
+gluonts~=0.14.3
+numpy~=1.26.0
+scipy~=1.11.3
+einops==0.7.*
+jaxtyping~=0.2.24
+python-dotenv==1.0.0
+hydra-core==1.3
+orjson
+tensorboard
+multiprocess==0.70.16
+huggingface_hub==0.24.5
+safetensors==0.4.4
+datasets~=2.17.1
+jax[cpu]==0.4.30
+typing_extensions==4.7.1
