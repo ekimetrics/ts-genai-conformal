@@ -232,6 +232,22 @@ for element in itertools.product(*[l_dataset, l_horizon]):
                 "#d1a3ff",  # violet clair
                 "#911eb4",  # violet foncé
             ]
+        
+        else:
+            colors = [
+                "#fabebe",  # rose clair
+                "#e6194b",  # rouge vif
+                "#8b4513",  # rose vif
+                "#bfef45",  # vert clair
+                "#3cb44b",  # vert vif
+                "#469990",  # vert sarcelle
+                "#f58231",  # orange vif
+                "#42d4f4",  # cyan clair
+                "#2a9ec4",  # cyan vif
+                "#d1a3ff",  # violet clair
+                "#911eb4",  # violet foncé
+            ]
+
 
 
         d_data = {
